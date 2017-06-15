@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": "",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "mapRoot": "./",
+        "sourceMap": true,
+        "target": "es5"
+  }
+}
